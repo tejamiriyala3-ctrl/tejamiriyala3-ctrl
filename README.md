@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/tejamiriyala3-ctrl?tab=repositories"><img src="assets/btn-projects.svg" alt="View projects" width="32%"></a>
   <a href="mailto:tejamiriyala3@gmail.com"><img src="assets/btn-email.svg" alt="Get in touch" width="32%"></a>
-  <a href="https://github.com/tejamiriyala3-ctrl/Football-vision"><img src="assets/btn-football.svg" alt="Football-vision" width="32%"></a>
+  <a href="https://github.com/tejamiriyala3-ctrl/tejamiriyala3-ctrl/raw/main/VSS_Teja_Resume.pdf"><img src="assets/btn-resume.svg" alt="Resume (PDF)" width="32%"></a>
 </p>
 
 ## About
