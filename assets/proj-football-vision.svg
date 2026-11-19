@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="190" viewBox="0 0 590 190" role="img" aria-label="Football-vision: Computer vision for football match analysis, built from a player's and referee's point of view.">
+<title>Football-vision: Computer vision for football match analysis, built from a player's and referee's point of view.</title>
+<defs>
+  <linearGradient id="bgpproj" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#06130e"/><stop offset="1" stop-color="#0e2b1f"/>
+  </linearGradient>
+  <pattern id="gridpproj" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.035"/>
+  </pattern>
+</defs>
+<rect width="590" height="190" rx="22" fill="url(#bgpproj)"/>
+<rect width="590" height="190" rx="22" fill="url(#gridpproj)"/>
+<rect x="0.5" y="0.5" width="589" height="189" rx="22" fill="none" stroke="#ffffff" stroke-opacity="0.10"/><rect x="0" y="22" width="5" height="146" rx="2.5" fill="#fbbf24"/><text x="32" y="52" font-family="'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#f4fff8">Football-vision</text><rect x="462.6" y="34" width="103.4" height="24" rx="12" fill="#fbbf24" fill-opacity="0.15" stroke="#fbbf24" stroke-opacity="0.6"/><text x="514.3" y="50" text-anchor="middle" font-family="'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.2" fill="#fbbf24">IN PROGRESS</text><text x="32" y="88" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#cfe6d9">Computer vision for football match analysis,</text><text x="32" y="112" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#cfe6d9">built from a player's and referee's point of view.</text><rect x="32" y="142" width="65.2" height="26" rx="13" fill="#ffffff" fill-opacity="0.06" stroke="#fbbf24" stroke-opacity="0.4"/><text x="64.6" y="159" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#e8f5ee">OpenCV</text><rect x="105.2" y="142" width="130.0" height="26" rx="13" fill="#ffffff" fill-opacity="0.06" stroke="#fbbf24" stroke-opacity="0.4"/><text x="170.2" y="159" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#e8f5ee">Computer Vision</text><rect x="243.2" y="142" width="65.2" height="26" rx="13" fill="#ffffff" fill-opacity="0.06" stroke="#fbbf24" stroke-opacity="0.4"/><text x="275.8" y="159" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#e8f5ee">Python</text>
+</svg>

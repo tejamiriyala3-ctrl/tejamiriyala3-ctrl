@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="100" viewBox="0 0 400 100" role="img" aria-label="Football-vision: in progress · computer vision">
+<title>Football-vision: in progress · computer vision</title>
+<defs><linearGradient id="lc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06130e"/><stop offset="1" stop-color="#0e2b1f"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="399" height="99" rx="50" fill="url(#lc)" stroke="#fbbf24" stroke-opacity="0.45"/>
+<circle cx="52" cy="50" r="26" fill="#fbbf24" fill-opacity="0.16" stroke="#fbbf24" stroke-opacity="0.6"/>
+<circle cx="52" cy="50" r="12" fill="none" stroke="#fbbf24" stroke-width="2.4"/><path d="M52 44l6 4-2 7h-8l-2-7z" fill="#fbbf24" fill-opacity="0.8"/>
+<text x="96" y="46" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#f4fff8">Football-vision</text>
+<text x="96" y="72" font-family="'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#8fb3a1">in progress · computer vision</text>
+<path d="M356 38 h14 v14 M370 38 l-16 16" stroke="#fbbf24" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510" role="img" aria-label="Tech stack: computer vision, ML and deep learning, GenAI and agents, AI engineering">
+<title>Tech stack: computer vision, ML and deep learning, GenAI and agents, AI engineering</title>
+<defs>
+  <linearGradient id="bgs" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#06130e"/><stop offset="1" stop-color="#0e2b1f"/>
+  </linearGradient>
+  <pattern id="grids" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.035"/>
+  </pattern>
+</defs>
+<rect width="1200" height="510" rx="22" fill="url(#bgs)"/>
+<rect width="1200" height="510" rx="22" fill="url(#grids)"/>
+<rect x="0.5" y="0.5" width="1199" height="509" rx="22" fill="none" stroke="#ffffff" stroke-opacity="0.10"/><text x="56" y="56" font-family="'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="3.2" fill="#b6ff3b">TECH STACK</text><text x="1144" y="56" text-anchor="end" font-family="'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#8fb3a1">the tools behind every project</text><text x="56" y="112" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#f4fff8">Computer Vision</text><text x="56" y="136" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8fb3a1">Teaching machines to see the game.</text><rect x="56.0" y="156" width="82.2" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#b6ff3b" stroke-opacity="0.4"/>
+<circle cx="72.0" cy="173" r="4" fill="#b6ff3b"/>
+<text x="84.0" y="178" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">OpenCV</text><rect x="148.2" y="156" width="105.3" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#b6ff3b" stroke-opacity="0.4"/>
+<circle cx="164.2" cy="173" r="4" fill="#b6ff3b"/>
+<text x="176.2" y="178" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">MediaPipe</text><rect x="263.5" y="156" width="66.8" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#b6ff3b" stroke-opacity="0.4"/>
+<circle cx="279.5" cy="173" r="4" fill="#b6ff3b"/>
+<text x="291.5" y="178" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">CNNs</text><rect x="340.3" y="156" width="190.0" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#b6ff3b" stroke-opacity="0.4"/>
+<circle cx="356.3" cy="173" r="4" fill="#b6ff3b"/>
+<text x="368.3" y="178" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">Hand &amp; Face Tracking</text><rect x="56.0" y="200" width="151.5" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#b6ff3b" stroke-opacity="0.4"/>
+<circle cx="72.0" cy="217" r="4" fill="#b6ff3b"/>
+<text x="84.0" y="222" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">Real-time Video</text><text x="630" y="112" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#f4fff8">ML &amp; Deep Learning</text><text x="630" y="136" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8fb3a1">Training, evaluating and explaining models.</text><rect x="630.0" y="156" width="82.2" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.4"/>
+<circle cx="646.0" cy="173" r="4" fill="#22d3ee"/>
+<text x="658.0" y="178" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">Python</text><rect x="722.2" y="156" width="74.5" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.4"/>
+<circle cx="738.2" cy="173" r="4" fill="#22d3ee"/>
+<text x="750.2" y="178" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">NumPy</text><rect x="806.7" y="156" width="82.2" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.4"/>
+<circle cx="822.7" cy="173" r="4" fill="#22d3ee"/>
+<text x="834.7" y="178" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">Pandas</text><rect x="898.9" y="156" width="128.4" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.4"/>
+<circle cx="914.9" cy="173" r="4" fill="#22d3ee"/>
+<text x="926.9" y="178" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">Scikit-learn</text><rect x="1037.3" y="156" width="89.9" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.4"/>
+<circle cx="1053.3" cy="173" r="4" fill="#22d3ee"/>
+<text x="1065.3" y="178" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">XGBoost</text><rect x="630.0" y="200" width="113.0" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.4"/>
+<circle cx="646.0" cy="217" r="4" fill="#22d3ee"/>
+<text x="658.0" y="222" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">TensorFlow</text><rect x="753.0" y="200" width="74.5" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.4"/>
+<circle cx="769.0" cy="217" r="4" fill="#22d3ee"/>
+<text x="781.0" y="222" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">Keras</text><rect x="837.5" y="200" width="89.9" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.4"/>
+<circle cx="853.5" cy="217" r="4" fill="#22d3ee"/>
+<text x="865.5" y="222" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">PyTorch</text><rect x="937.4" y="200" width="66.8" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.4"/>
+<circle cx="953.4" cy="217" r="4" fill="#22d3ee"/>
+<text x="965.4" y="222" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">LSTM</text><rect x="630.0" y="244" width="128.4" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.4"/>
+<circle cx="646.0" cy="261" r="4" fill="#22d3ee"/>
+<text x="658.0" y="266" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">Transformers</text><text x="56" y="326" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#f4fff8">GenAI &amp; Agents</text><text x="56" y="350" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8fb3a1">Grounding LLMs in context and wiring them to tools.</text><rect x="56.0" y="370" width="59.1" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#a78bfa" stroke-opacity="0.4"/>
+<circle cx="72.0" cy="387" r="4" fill="#a78bfa"/>
+<text x="84.0" y="392" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">RAG</text><rect x="125.1" y="370" width="105.3" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#a78bfa" stroke-opacity="0.4"/>
+<circle cx="141.1" cy="387" r="4" fill="#a78bfa"/>
+<text x="153.1" y="392" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">LangChain</text><rect x="240.4" y="370" width="105.3" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#a78bfa" stroke-opacity="0.4"/>
+<circle cx="256.4" cy="387" r="4" fill="#a78bfa"/>
+<text x="268.4" y="392" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">LangGraph</text><rect x="355.7" y="370" width="82.2" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#a78bfa" stroke-opacity="0.4"/>
+<circle cx="371.7" cy="387" r="4" fill="#a78bfa"/>
+<text x="383.7" y="392" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">CrewAI</text><rect x="447.9" y="370" width="59.1" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#a78bfa" stroke-opacity="0.4"/>
+<circle cx="463.9" cy="387" r="4" fill="#a78bfa"/>
+<text x="475.9" y="392" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">MCP</text><rect x="56.0" y="414" width="82.2" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#a78bfa" stroke-opacity="0.4"/>
+<circle cx="72.0" cy="431" r="4" fill="#a78bfa"/>
+<text x="84.0" y="436" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">Ollama</text><rect x="148.2" y="414" width="97.6" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#a78bfa" stroke-opacity="0.4"/>
+<circle cx="164.2" cy="431" r="4" fill="#a78bfa"/>
+<text x="176.2" y="436" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">ChromaDB</text><rect x="255.8" y="414" width="105.3" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#a78bfa" stroke-opacity="0.4"/>
+<circle cx="271.8" cy="431" r="4" fill="#a78bfa"/>
+<text x="283.8" y="436" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">LLM Evals</text><rect x="371.1" y="414" width="113.0" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#a78bfa" stroke-opacity="0.4"/>
+<circle cx="387.1" cy="431" r="4" fill="#a78bfa"/>
+<text x="399.1" y="436" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">Guardrails</text><rect x="56.0" y="458" width="120.7" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#a78bfa" stroke-opacity="0.4"/>
+<circle cx="72.0" cy="475" r="4" fill="#a78bfa"/>
+<text x="84.0" y="480" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">Claude Code</text><text x="630" y="326" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#f4fff8">AI Engineering</text><text x="630" y="350" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8fb3a1">Shipping models as real apps.</text><rect x="630.0" y="370" width="89.9" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#fbbf24" stroke-opacity="0.4"/>
+<circle cx="646.0" cy="387" r="4" fill="#fbbf24"/>
+<text x="658.0" y="392" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">FastAPI</text><rect x="729.9" y="370" width="105.3" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#fbbf24" stroke-opacity="0.4"/>
+<circle cx="745.9" cy="387" r="4" fill="#fbbf24"/>
+<text x="757.9" y="392" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">Streamlit</text><rect x="845.2" y="370" width="89.9" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#fbbf24" stroke-opacity="0.4"/>
+<circle cx="861.2" cy="387" r="4" fill="#fbbf24"/>
+<text x="873.2" y="392" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">Next.js</text><rect x="945.1" y="370" width="97.6" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#fbbf24" stroke-opacity="0.4"/>
+<circle cx="961.1" cy="387" r="4" fill="#fbbf24"/>
+<text x="973.1" y="392" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">Supabase</text><rect x="1052.7" y="370" width="59.1" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#fbbf24" stroke-opacity="0.4"/>
+<circle cx="1068.7" cy="387" r="4" fill="#fbbf24"/>
+<text x="1080.7" y="392" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">SQL</text><rect x="630.0" y="414" width="82.2" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#fbbf24" stroke-opacity="0.4"/>
+<circle cx="646.0" cy="431" r="4" fill="#fbbf24"/>
+<text x="658.0" y="436" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">Docker</text><rect x="722.2" y="414" width="128.4" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#fbbf24" stroke-opacity="0.4"/>
+<circle cx="738.2" cy="431" r="4" fill="#fbbf24"/>
+<text x="750.2" y="436" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">Git &amp; GitHub</text><rect x="860.6" y="414" width="74.5" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#fbbf24" stroke-opacity="0.4"/>
+<circle cx="876.6" cy="431" r="4" fill="#fbbf24"/>
+<text x="888.6" y="436" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#e8f5ee">Linux</text>
+</svg>
