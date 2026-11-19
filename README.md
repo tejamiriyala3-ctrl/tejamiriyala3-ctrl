@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="VSS Teja: AI/ML engineer and footballer, shown as a terminal beside a brain split between football and AI" width="100%">
+  <img src="assets/header-lofi.svg" alt="VSS Teja: AI/ML engineer and footballer, shown as a terminal beside a brain split between football and AI" width="100%">
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ I also play and referee football. Captain at every level of school, college and 
 ## stack
 
 <p align="center">
-  <img src="assets/stack.svg" alt="Tech stack: OpenCV, MediaPipe, Python, NumPy, Pandas, scikit-learn, TensorFlow, Keras, PyTorch, LangChain, LangGraph, CrewAI, MCP, Ollama, Hugging Face, Claude, Cursor, FastAPI, Streamlit, Next.js, Supabase, Postgres, Docker, Git, GitHub, Linux" width="100%">
+  <img src="assets/stack-lofi.svg" alt="Tech stack: OpenCV, MediaPipe, Python, NumPy, Pandas, scikit-learn, TensorFlow, Keras, PyTorch, LangChain, LangGraph, CrewAI, MCP, Ollama, Hugging Face, Claude, Cursor, FastAPI, Streamlit, Next.js, Supabase, Postgres, Docker, Git, GitHub, Linux" width="100%">
 </p>
 
 ## work
