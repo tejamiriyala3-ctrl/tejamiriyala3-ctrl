@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tejamiriyala3-ctrl?tab=repositories"><img src="assets/btn-projects.svg" alt="View projects" width="32%"></a>
+  <a href="https://www.linkedin.com/in/surya-teja-miriyala-449816277/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" width="32%"></a>
   <a href="mailto:tejamiriyala3@gmail.com"><img src="assets/btn-email.svg" alt="Get in touch" width="32%"></a>
   <a href="https://github.com/tejamiriyala3-ctrl/tejamiriyala3-ctrl/raw/main/VSS_Teja_Resume.pdf"><img src="assets/btn-resume.svg" alt="Resume (PDF)" width="32%"></a>
 </p>
